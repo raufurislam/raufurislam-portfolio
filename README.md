@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">📌 About Me</h2>
+<h2 align="left">About Me</h2>
 
 <p align="left">
 I am a <b>Full Stack Developer</b> with expertise in <b>React.js, Node.js, and UI/UX design</b>. I enjoy building <b>scalable, efficient applications</b> and continuously learning emerging technologies.
