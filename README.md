@@ -122,3 +122,8 @@ Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, u
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raufurislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="249" alt="languages graph" f/> 
    
 </div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  />
+</div>
+
+###

@@ -1,0 +1,7 @@
+Some time I update my Readme.md from github. then It to pull the branch after I need to push the code from Vs code.
+method:
+$ git pull origin main
+$ git add .
+$ git commit -m"Update Readme with pull"
+$ git push -u origin main (u for always push from main branch)
+Life is Easy if you explore
